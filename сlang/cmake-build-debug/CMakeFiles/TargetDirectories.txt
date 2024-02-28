@@ -1,0 +1,3 @@
+/Users/alimov/dev/projects/data-structures-algorithms/cmake-build-debug/CMakeFiles/data_structures_algorithms.dir
+/Users/alimov/dev/projects/data-structures-algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alimov/dev/projects/data-structures-algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
